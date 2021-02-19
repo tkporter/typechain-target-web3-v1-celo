@@ -85,4 +85,3 @@ tsconfig.tsbuildinfo
 # git mergetool
 *.orig
 
-lib/
